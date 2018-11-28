@@ -92,34 +92,34 @@ ______________________________________
 #### Coordenador de Atendimento e Suporte
 **Período:** jul de 2016 – dez de 2016
 
-• Gestão de TI e técnicas ITIL v3
-• Gerenciamento de Banco de dados
-• Suporte técnico para aplicação de emissão e recebimento de DFes 
-• Controle de turn over e absenteísmo
-• Controles internos de equipe
-• Controle de processos 
+- Gestão de TI e técnicas ITIL v3
+- Gerenciamento de Banco de dados
+- Suporte técnico para aplicação de emissão e recebimento de DFes 
+- Controle de turn over e absenteísmo
+- Controles internos de equipe
+- Controle de processos 
 
 #### Analista de suporte técnico
 **Período:** dez de 2015 – jul de 2016
 
-• Suporte técnico 
-• Atendimento ao cliente via chamado e telefone 
-• Analise e apoio técnico ao cliente
+- Suporte técnico 
+- Atendimento ao cliente via chamado e telefone 
+- Analise e apoio técnico ao cliente
 
 ### Zanc Assessoria de Cobrança
 #### Assistente de supervisão
 **Período:** jan de 2014 – jun de 2015
 
-• Gestão de pessoas, 
-• Controle de turn over, absenteísmo
-• Aplicação de feedback 
-• Desenvolvimento de negociadores
-• Controle de indicadores
+- Gestão de pessoas, 
+- Controle de turn over, absenteísmo
+- Aplicação de feedback 
+- Desenvolvimento de negociadores
+- Controle de indicadores
 
 #### Negociador
 **Período:** nov de 2013 – jan de 2014
 
-• Recuperação de crédito de produtos bancários (financiamento de veículos), com o objetivo de reverter o quadro de inadimplência da carteira
+- Recuperação de crédito de produtos bancários (financiamento de veículos), com o objetivo de reverter o quadro de inadimplência da carteira
 
 -----------------------------------------------------------------------------------------
 
