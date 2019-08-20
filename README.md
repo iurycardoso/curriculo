@@ -8,7 +8,7 @@ Porto Alegre - Rio Grande do sul - Brasil
 
 **Idade:** 28 anos
 
-**Telefone:** (51) 99708-0576
+**Telefone:** (51) 98349-0576
 
 **E-mail:** iurycardoso6@gmail.com
 
@@ -21,7 +21,7 @@ ______________________________________
 ## Skills Técnicas
 
 ### Forte:
-
+- Advpl
 - Html5 | Css3 |Js
 - Php 5+ | Laravel | Doctrine
 - Angular 5+ 
@@ -41,7 +41,6 @@ ______________________________________
 - Automatizadores (Grunt, Gulp)
 - Apache Tunning
 - Jmeter
-- Advpl
 - Protheus
 - Sap
 - Datasul
@@ -58,6 +57,7 @@ ______________________________________
 - Apache
 
 ### Outros
+- Protheus: Compras | Financeiro | Faturamento | Estoque | Outros
 - Gestão de Projetos
 - Padrões de Projeto (Modelo MVC)
 - Sistema de Controle de versão (git)
@@ -73,8 +73,20 @@ ______________________________________
 ## Experiência
 
 ### TargetIT Serviços em Tecnologia
+#### Desenvolvedor ADVPL - PROTHEUS
+**Período:** Fevereiro de 2019 – Atual
+
+- Desenvolvimento de novas rotinas e customizações; 
+- Suporte e apoio ao cliente; 
+- Apresentação das rotinas para clientes e prospecções;
+- Treinamento para usuários das rotinas customizadas; 
+- Desenvolvimento e manutenção da integração de DF-e como NF-e, CT-e e NFS-e 
+
+
+
+### TargetIT Serviços em Tecnologia
 #### Software Developer
-**Período:** Março de 2018 – Atual
+**Período:** Março de 2018 – Fevereiro de 2019
 
 - Desenvolvimento de novas funcionalidades 
 - Manutenção para a aplicação existente
