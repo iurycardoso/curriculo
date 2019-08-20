@@ -139,7 +139,7 @@ ______________________________________
 
 ### Universidade Ritter Dos Reis
 #### Tecnólogo em Análise e Desenvolvimento de Sistemas [Em Andamento]
-**Inicío:** 2018/1 | **Previsão de Conclusão:** 2020/1
+**Inicío:** 2018/1 | **Previsão de Conclusão:** 2021/1
 
 -------------------------------------------------------------------------------------------
 
