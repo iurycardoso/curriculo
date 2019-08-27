@@ -20,30 +20,29 @@ ______________________________________
 
 ## Skills Técnicas
 
+
 ### Forte:
-- Advpl
+- Angular 5+
 - Html5 | Css3 |Js
-- Php 5+ | Laravel | Doctrine
-- Angular 5+ 
-- Programação Orienteda a Objetos
+- Advpl 
+- POO
 - Bootstrap
-- PSR's 
-- Java
+- PSR's
+- React Native | React Js
+
 
 ### Conhecedor: 
-
 - Nodejs
-- React Native | React Js
 - Webpack
+- Php 5+ | Laravel | Doctrine
+- Java
 - Testes de software
 - Pré-processadores (Sass, Less, Stylus)
 - Responsive Design
 - Automatizadores (Grunt, Gulp)
 - Apache Tunning
 - Jmeter
-- Protheus
-- Sap
-- Datasul
+
 
 ### Banco de Dados
 
@@ -56,8 +55,11 @@ ______________________________________
 
 - Apache
 
+
 ### Outros
-- Protheus: Compras | Financeiro | Faturamento | Estoque | Outros
+- Protheus
+- Sap
+- Datasul
 - Gestão de Projetos
 - Padrões de Projeto (Modelo MVC)
 - Sistema de Controle de versão (git)
@@ -73,18 +75,6 @@ ______________________________________
 ## Experiência
 
 ### TargetIT Serviços em Tecnologia
-#### Desenvolvedor ADVPL - PROTHEUS
-**Período:** Fevereiro de 2019 – Atual
-
-- Desenvolvimento de novas rotinas e customizações; 
-- Suporte e apoio ao cliente; 
-- Apresentação das rotinas para clientes e prospecções;
-- Treinamento para usuários das rotinas customizadas; 
-- Desenvolvimento e manutenção da integração de DF-e como NF-e, CT-e e NFS-e 
-
-
-
-### TargetIT Serviços em Tecnologia
 #### Software Developer
 **Período:** Março de 2018 – Fevereiro de 2019
 
@@ -92,7 +82,6 @@ ______________________________________
 - Manutenção para a aplicação existente
 - Correções e Melhorias de processos 
 - Desenvolvimento Back-End & Front-End
-
 
 
 ### TargetIT Serviços em Tecnologia
