@@ -76,7 +76,7 @@ ______________________________________
 
 ### TargetIT Serviços em Tecnologia
 #### Software Developer
-**Período:** Março de 2018 – Fevereiro de 2019
+**Período:** Março de 2018 – o momento
 
 - Desenvolvimento de novas funcionalidades 
 - Manutenção para a aplicação existente
