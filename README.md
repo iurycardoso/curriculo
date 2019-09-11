@@ -12,7 +12,7 @@ Porto Alegre - Rio Grande do sul - Brasil
 
 **E-mail:** iurycardoso6@gmail.com
 
-**Linkedin:** https://www.linkedin.com/in/iurycardoso6/
+**Linkedin:** https://www.linkedin.com/in/iurycardoso
 
 **Github:** iurycardoso
 
