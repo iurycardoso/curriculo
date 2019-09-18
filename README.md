@@ -28,7 +28,7 @@ ______________________________________
 - POO
 - Bootstrap
 - PSR's
-- React Native | React Js
+
 
 
 ### Conhecedor: 
@@ -41,6 +41,7 @@ ______________________________________
 - Responsive Design
 - Automatizadores (Grunt, Gulp)
 - Apache Tunning
+- React Native | React Js
 - Jmeter
 
 
