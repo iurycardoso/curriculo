@@ -22,19 +22,18 @@ ______________________________________
 
 
 ### Forte:
-- Angular 5+
+- Angular 4+
 - Html5 | Css3 |Js
 - Advpl 
-- POO
-- Bootstrap
-- PSR's
+- Php 5+
+
 
 
 
 ### Conhecedor: 
 - Nodejs
 - Webpack
-- Php 5+ | Laravel | Doctrine
+- Laravel | Doctrine
 - Java
 - Testes de software
 - Pré-processadores (Sass, Less, Stylus)
@@ -43,6 +42,9 @@ ______________________________________
 - Apache Tunning
 - React Native | React Js
 - Jmeter
+- POO
+- Bootstrap
+- PSR's
 
 
 ### Banco de Dados
@@ -77,10 +79,10 @@ ______________________________________
 
 ### TargetIT Serviços em Tecnologia
 #### Software Developer
-**Período:** Março de 2018 – o momento
+**Período:** Março de 2018 – Outubro de 2019
 
 - Desenvolvimento de novas funcionalidades 
-- Manutenção para a aplicação existente
+- Manutenção de sistemas
 - Correções e Melhorias de processos 
 - Desenvolvimento Back-End & Front-End
 
