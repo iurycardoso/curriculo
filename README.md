@@ -6,7 +6,7 @@ Porto Alegre - Rio Grande do sul - Brasil
 --------------------------------
 ## Desenvolvedor de Software
 
-**Idade:** 28 anos
+**Idade:** 29 anos
 
 **Telefone:** (51) 98349-0576
 
@@ -25,9 +25,11 @@ ______________________________________
 - Angular 4+
 - Html5 | Css3 |Js
 - Advpl 
-- Php 5+
-
-
+- Git
+- Protractor
+- Bootstrap
+- Responsive Design
+- Firebase
 
 
 ### Conhecedor: 
@@ -37,13 +39,11 @@ ______________________________________
 - Java
 - Testes de software
 - Pré-processadores (Sass, Less, Stylus)
-- Responsive Design
 - Automatizadores (Grunt, Gulp)
 - Apache Tunning
-- React Native | React Js
+- React Js
 - Jmeter
 - POO
-- Bootstrap
 - PSR's
 
 
@@ -55,7 +55,7 @@ ______________________________________
 - PostgreSQL
 
 ### Infra
-
+- AWS S3
 - Apache
 
 
@@ -76,6 +76,14 @@ ______________________________________
 -----------------------------------------------------------------
 
 ## Experiência
+
+### Cartórios de Protesto do RS
+#### Desenvolvedor Front-End
+**Período:** Novembro de 2019 - até o momento
+
+- Desenvolvimento de novas funcionalidades e sistemas
+- Suporte e manutenção dos softwares presentes na empresa
+- Correções e Melhorias de processos
 
 ### TargetIT Serviços em Tecnologia
 #### Software Developer
